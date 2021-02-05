@@ -1,5 +1,6 @@
 class Test{
     public private static Type name() {
-       System.out.println("Test");
+       System.out.println("My name is arpit");
+
     }
 }
